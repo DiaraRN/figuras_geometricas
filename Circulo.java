@@ -8,6 +8,7 @@ public class Circulo extends FigurasG {
      @Override
     public  void AreaF()
     {
+        //lectura de area circulo 
         System.out.println("Area del circulo");
         Radio = Double.parseDouble(JOptionPane.showInputDialog("Ingrese el radio del circulo"));
 
