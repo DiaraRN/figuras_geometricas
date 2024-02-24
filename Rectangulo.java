@@ -1,5 +1,3 @@
-package FiguraGeometrica;
-
 import javax.swing.JOptionPane;
 
 public class Rectangulo extends FigurasG{

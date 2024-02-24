@@ -1,5 +1,3 @@
-package  FiguraGeometrica;
-
 import javax.swing.JOptionPane;
 //operaciones del codigo
 public class Principal {
