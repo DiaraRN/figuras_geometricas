@@ -12,6 +12,7 @@ public class Circulo extends FigurasG {
         Radio = Double.parseDouble(JOptionPane.showInputDialog("Ingrese el radio del circulo"));
 
         Area = Math.PI * Math.pow(Radio,2);
+        Area += 1;
 
         System.out.println("Radio" +Radio);
         System.out.println("Formula= PI * Radio^2 ");
