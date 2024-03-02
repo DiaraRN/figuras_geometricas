@@ -1,4 +1,4 @@
- package FiguraGeometrica;
+
 
 public abstract class FigurasG {
 
